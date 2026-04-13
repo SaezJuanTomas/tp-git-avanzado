@@ -1,18 +1,14 @@
-# University Git Practice Project
+# TP Git Avanzado
 
-## Description
-This repository contains a simple university practice project focused on learning and applying collaborative Git workflows.
+Trabajo práctico integrador - Tecnicatura Universitaria en Programación
 
-## Technologies Used
-- HTML
+## Integrantes
 
-## Team Members
 - Tomas Saez
 - Gabriel Kogan
 
-## Project Objective
-Practice and reinforce the use of:
-- Git branches
-- Merge conflicts resolution
+## Tecnologías
+
+- HTML
+- Git
 - GitHub Actions
-- Git tags
